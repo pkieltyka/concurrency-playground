@@ -1,0 +1,6 @@
+source "http://rubygems.org"
+
+gem 'zync', :git => 'git://github.com/kfaustino/zync.git'
+gem 'em-synchrony'
+
+gem 'thin'

@@ -1,0 +1,4 @@
+source :rubygems
+
+gem 'rails', :git => 'git://github.com/rails/rails.git', :tag => 'v3.1.0.rc1'
+gem 'thin'

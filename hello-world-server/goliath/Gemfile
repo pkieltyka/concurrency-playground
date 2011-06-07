@@ -1,0 +1,4 @@
+source "http://rubygems.org"
+
+gem 'goliath', :git => 'git://github.com/postrank-labs/goliath.git'
+# gem 'http_router', :git => 'git://github.com/joshbuddy/http_router.git'

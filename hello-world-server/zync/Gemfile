@@ -1,0 +1,6 @@
+source "http://rubygems.org"
+
+gem 'eventmachine'
+gem 'zync', :git => 'git://github.com/kfaustino/zync.git'
+
+gem 'thin'

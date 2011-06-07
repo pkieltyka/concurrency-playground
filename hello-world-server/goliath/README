@@ -1,0 +1,8 @@
+Goliath "Hello world" example
+
+Run:
+
+$ bundle update
+$ ruby server.rb -e prod
+
+$ ab -c 100 -n 1000 http://127.0.0.1:9000/

@@ -1,0 +1,3 @@
+Experimenting with a simplified "Hello world" http endpoint using various web application platforms. I like to think of these benchmarks as demonstrating the ceiling req/sec on a single process of a framework. Once you start adding more logic, it will only go down from here.
+
+Warning: don't try to draw too much from the comparison of the benchmarks... it's not very scientific. For example, frameworks like Sinatra and Rails pass requests through a router which slows things down a bit. Where as in the Node.js, Zync and Goliath examples, no router is used.

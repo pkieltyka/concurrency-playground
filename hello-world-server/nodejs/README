@@ -1,0 +1,7 @@
+Node.js "Hello world" example
+
+Run:
+
+$ node hello.js
+
+$ ab -c 100 -n 1000 http://127.0.0.1:1337/
